@@ -1,0 +1,25 @@
+body {
+	background-color: bebbe4
+}
+
+h1 {
+	color: #37336e;
+	text-align: center;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+}
+
+h2 {
+	color: #7b76b4;
+	text-align: center;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+}
+
+p {
+	color: #6b89a9;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+	font-size: 20px;
+}
+
+img {
+  float: left;
+}
