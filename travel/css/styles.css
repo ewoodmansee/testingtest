@@ -22,12 +22,12 @@ p {
 
 .leftfloat {
   float: left;
-  padding: 30px;
+  padding: 20px;
 }
 
 .rightfloat {
  float: right;
- padding: 30px;
+ padding: 20px;
 }
 
 .box {
@@ -49,4 +49,5 @@ p {
 	width: 20%;
 	float: right;
 	background-color: #fff899;
+	padding: 10px;
   }
