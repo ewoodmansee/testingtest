@@ -44,3 +44,9 @@ p {
 	margin-right: auto;
 	width: 325;
   }
+
+  .sidebar {
+	width: 30%;
+	float: right;
+	background-color: #fff899;
+  }
