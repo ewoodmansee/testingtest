@@ -32,8 +32,15 @@ p {
 
 .box {
 	margin: 12px;
-	border: 3px solid #fff899;
-	border-width: 4px;
-	padding: 4px;
+	border: 2px solid #fff899;
+	padding: 3px;
 	background-color: #b5cae0;
+	box-align: center;
+  }
+
+  .imgcenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 325;
   }
